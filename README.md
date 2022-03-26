@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mrwuttke
+- 👀 I’m interested in Python, C and Linux. Not a very logical choice, but ... 
+- 🌱 I’m currently learning Python and Bash.
+- 💞️ I’m looking to collaborate on ... sorry. Need to learn more.
